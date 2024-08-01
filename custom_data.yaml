@@ -1,4 +1,4 @@
-path: ../Okutama_Action_Dataset
+path: ./Okutama_Action_Dataset
 train: train/images
 val: val_small/images
 # test: test/images
