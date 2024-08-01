@@ -1,5 +1,6 @@
-train: Okutama_Action_Dataset/train/
-val: Okutama_Action_Dataset/val_small/
+path: ../Okutama_Action_Dataset
+train: train/images
+val: val_small/images
 # test: test/images
 
 names:
